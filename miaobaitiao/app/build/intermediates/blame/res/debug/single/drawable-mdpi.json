@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/outaccountinfo.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/outaccountinfo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/backgroud_red.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/backgroud_red.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/showinfo.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/showinfo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/shoppingwamen.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/shoppingwamen.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/baground.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/baground.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/exit.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/exit.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/inaccountinfo.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/inaccountinfo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/desktop_bg.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/desktop_bg.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/login_button_unselected.9.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/login_button_unselected.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/sysset.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/sysset.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/accountflag.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/accountflag.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/backgroud_wind.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/backgroud_wind.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/backgroud_clean.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/backgroud_clean.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/appicon.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/addinaccount.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/addinaccount.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/login_button_selected.9.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/login_button_selected.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/addoutaccount.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/addoutaccount.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/debug/drawable-mdpi/reg_button_unselected.9.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-mdpi/reg_button_unselected.9.png"
+    }
+]

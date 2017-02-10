@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-mdpi/bug.png",
+        "source": "/Users/apple/Documents/App/laijie/app/build/generated/res/pngs/debug/drawable-mdpi/bug.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-mdpi/home1.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-mdpi/home1.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-mdpi/erweima.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-mdpi/erweima.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

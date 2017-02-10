@@ -1,0 +1,4 @@
+#Tue Jan 17 16:32:38 CST 2017
+base.0=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

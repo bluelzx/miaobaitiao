@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_b1ed6f9b9f94d9bfe7f3ea043f304ccd277bb641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/libs/zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/zxing_d620cf7a616a1f510e9a04e6e80d9911cf8e8da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_7576f021bc13fd906923b9b8ddd80964dec5700e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/cn.bingoogolapple-bga-banner-2.1.6_53d0cafbfd4abaacfc08a3add28a94e6170e48fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_e864c9c67affa8d9e195e5a2408b113351543a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_7402de68e66574651095290249c601c06edc52aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_fefd49118e3bba5b3b5846648aec962ac11272f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_b7672978b4ef4789dfd7f76bd9979f62d9b41a91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69c24fef9f90b3c39c3d8a9220d8fa1bda0282ed">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_860ee53bbdbb4e8f1a0db937d4ec071c2a7f34bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_10ebea06e0c6ff4fb7d369d0701c65773fc07ae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/me.majiajie/pager-bottom-tab-strip/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cbd605407170445cf5aa765ce4cb4947df0d0d9c">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.majiajie-pager-bottom-tab-strip-1.0.0_b7c54686e4b93553a54e2738db28249c638c10b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GithHub/AccountBook1/app/libs/xUtils-2.6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="149586602e581f306ccc6fe813a60d7b956252d9">
+        <dex dex="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.13_8874dd3d3ca61ee1488f229e334815d33c22be16/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_0bc14170d4184e970139d7b369defed304ad2884.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7c4aa314519e8b4ada2bd2c7fab1e09a8513c38d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a2e707083a9ba59b528ee5c6e93c52f11afd937a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_b6675bd38479d1deb66b70e64d651df663a5a8b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0bd5cd3a293cb5575453e41284d605d0b008c37c">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.github.githubwing-ByeBurger-1.2.3_83256e71e7032a6e6ba2023553b5c3c02e698ccb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7aec188b747e0165dfcd8a9cfe38efdf14f1bf04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_956cb78ef6a5121dc05aa970efed58329302bbb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_39382fd84131ebead15fa3f09344f4f45efdc323.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7aaef17e4c5ce9ea2eab38a8bd93a3f88578ecd8">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abbe8659d31c22317dc7383fce6d88ac49a39aae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GithHub/AccountBook1/app/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_d4bffcbb03ad5905d0d15bd1b380baa0768b6789/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/annotations-java5-15.0_d99b43bffb8c5af8d00eb5a0e8a74addc7bf59ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_03d889fd6811d0f8c41151ed144b1d0bb8c8333a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c9428f32378d34b48c167e5451ae2ff76613b959/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_3398aa6796b514911de1edd10ad8cb5c5afe9656.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_6c5933aa9035b00d8063f98f496e22d62e3cad37/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_bc45a1dd6fe478521a96c494233bd4c9cdaa60ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/libs/xUtils-2.6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="149586602e581f306ccc6fe813a60d7b956252d9">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.13_860d95872c10ee074c296737ba2dff3ef87c4497/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_10ebea06e0c6ff4fb7d369d0701c65773fc07ae2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59802ae1525d31ada367cf088c42a58047e359ac">
+        <dex dex="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e7e9468e4bfa4178e775fb558d1b63f4ccf89cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b1ed6f9b9f94d9bfe7f3ea043f304ccd277bb641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_7576f021bc13fd906923b9b8ddd80964dec5700e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.0.1_b6675bd38479d1deb66b70e64d651df663a5a8b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bingoogolapple-bga-banner-2.1.6_53d0cafbfd4abaacfc08a3add28a94e6170e48fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_7402de68e66574651095290249c601c06edc52aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_d620cf7a616a1f510e9a04e6e80d9911cf8e8da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_b7672978b4ef4789dfd7f76bd9979f62d9b41a91/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_fefd49118e3bba5b3b5846648aec962ac11272f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0bc14170d4184e970139d7b369defed304ad2884/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/me.majiajie/pager-bottom-tab-strip/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cbd605407170445cf5aa765ce4cb4947df0d0d9c">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/me.majiajie-pager-bottom-tab-strip-1.0.0_b7c54686e4b93553a54e2738db28249c638c10b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_7c4aa314519e8b4ada2bd2c7fab1e09a8513c38d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_e864c9c67affa8d9e195e5a2408b113351543a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.9/5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503/analytics-6.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/analytics-6.0.9_3ee22c3f3f9c6b107db4406775ce0bc933dc48c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0bd5cd3a293cb5575453e41284d605d0b008c37c">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.githubwing-ByeBurger-1.2.3_83256e71e7032a6e6ba2023553b5c3c02e698ccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-design-25.0.1_956cb78ef6a5121dc05aa970efed58329302bbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_a2e707083a9ba59b528ee5c6e93c52f11afd937a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_7aec188b747e0165dfcd8a9cfe38efdf14f1bf04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_39382fd84131ebead15fa3f09344f4f45efdc323/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.0.1_03d889fd6811d0f8c41151ed144b1d0bb8c8333a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_d99b43bffb8c5af8d00eb5a0e8a74addc7bf59ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/libs/xUtils-2.6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="149586602e581f306ccc6fe813a60d7b956252d9">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/xUtils-2.6.13_860d95872c10ee074c296737ba2dff3ef87c4497.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.7/7224178d65af1443d8be61a2c20914bf3a6088fd/analytics-6.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7224178d65af1443d8be61a2c20914bf3a6088fd">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/analytics-6.0.7_5bdd0534a5f90c90be749fbdf8f087c17b6eef0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_c9428f32378d34b48c167e5451ae2ff76613b959.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_bc45a1dd6fe478521a96c494233bd4c9cdaa60ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff343b2e098dbc7720f1b1202d46920aea56b726">
+        <dex dex="/Users/apple/Documents/GithHub/AccountBook1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50b5f2767211dd4198d0a2a77673a148150352b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/caocaodai/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_3398aa6796b514911de1edd10ad8cb5c5afe9656/classes.dex" />
+    </item>
+
+</items>

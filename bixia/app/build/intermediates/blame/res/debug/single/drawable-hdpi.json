@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/drawer_shadow.9.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer_white.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/ic_drawer_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_shouru_type_linghuaqian.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/icon_shouru_type_linghuaqian.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/image_user_head.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/image_user_head.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/bixia/app/build/intermediates/res/merged/debug/drawable-hdpi/erweima.png",
+        "source": "/Users/apple/Documents/App/bixia/app/src/main/res/drawable-hdpi/erweima.png"
+    }
+]

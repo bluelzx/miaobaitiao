@@ -1,0 +1,2069 @@
+[
+    {
+        "outputFile": "/Users/apple/Documents/App/bixia/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endLine": 47,
+                        "endColumn": 19,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endLine": 64,
+                    "endColumn": 19,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 1924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endLine": 68,
+                    "endColumn": 19,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4583,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 4705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endLine": 72,
+                    "endColumn": 19,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4439,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 95,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 95,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 106,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 106,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2295,
+                    "endColumn": 122,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endColumn": 94,
+                    "endOffset": 2508
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 94,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2513,
+                    "endColumn": 99,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 99,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 81,
+                    "endOffset": 2690
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 81,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2695,
+                    "endColumn": 96,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 96,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 105,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 105,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 75,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 75,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 75,
+                    "endOffset": 3045
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 75,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3050,
+                    "endColumn": 77,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 77,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 95,
+                    "endOffset": 3219
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 95,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3224,
+                    "endColumn": 95,
+                    "endOffset": 3315
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 95,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3320,
+                    "endColumn": 94,
+                    "endOffset": 3410
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 94,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3415,
+                    "endColumn": 96,
+                    "endOffset": 3507
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 96,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3512,
+                    "endColumn": 94,
+                    "endOffset": 3602
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 94,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3607,
+                    "endColumn": 97,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 97,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 111,
+                    "endOffset": 3812
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 111,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3817,
+                    "endColumn": 93,
+                    "endOffset": 3906
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 93,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3911,
+                    "endColumn": 39,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 39,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endColumn": 54,
+                    "endOffset": 4001
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 54,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4006,
+                    "endColumn": 57,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 57,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 57,
+                    "endOffset": 4117
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 57,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4122,
+                    "endColumn": 56,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1115,
+                        "endColumn": 56,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 57,
+                    "endOffset": 4232
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1288,
+                        "endColumn": 57,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4237,
+                    "endColumn": 47,
+                    "endOffset": 4280
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4145,
+                        "endColumn": 47,
+                        "endOffset": 4188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4285,
+                    "endColumn": 45,
+                    "endOffset": 4326
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3917,
+                        "endColumn": 45,
+                        "endOffset": 3958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4331,
+                    "endColumn": 42,
+                    "endOffset": 4369
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4006,
+                        "endColumn": 42,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4374,
+                    "endColumn": 48,
+                    "endOffset": 4418
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4364,
+                        "endColumn": 48,
+                        "endOffset": 4408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4423,
+                    "endColumn": 44,
+                    "endOffset": 4463
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3782,
+                        "endColumn": 44,
+                        "endOffset": 3822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4468,
+                    "endColumn": 42,
+                    "endOffset": 4506
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3963,
+                        "endColumn": 42,
+                        "endOffset": 4001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4511,
+                    "endColumn": 46,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3827,
+                        "endColumn": 46,
+                        "endOffset": 3869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endColumn": 52,
+                    "endOffset": 4606
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4092,
+                        "endColumn": 52,
+                        "endOffset": 4140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4611,
+                    "endColumn": 50,
+                    "endOffset": 4657
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4313,
+                        "endColumn": 50,
+                        "endOffset": 4359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4662,
+                    "endColumn": 42,
+                    "endOffset": 4700
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 42,
+                        "endOffset": 4087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4705,
+                    "endColumn": 42,
+                    "endOffset": 4743
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3874,
+                        "endColumn": 42,
+                        "endOffset": 3912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4748,
+                    "endColumn": 63,
+                    "endOffset": 4807
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4249,
+                        "endColumn": 63,
+                        "endOffset": 4308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4812,
+                    "endColumn": 55,
+                    "endOffset": 4863
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4193,
+                        "endColumn": 55,
+                        "endOffset": 4244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4868,
+                    "endColumn": 40,
+                    "endOffset": 4904
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2944,
+                        "endColumn": 40,
+                        "endOffset": 2980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4909,
+                    "endColumn": 47,
+                    "endOffset": 4952
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2896,
+                        "endColumn": 47,
+                        "endOffset": 2939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4957,
+                    "endColumn": 45,
+                    "endOffset": 4998
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2850,
+                        "endColumn": 45,
+                        "endOffset": 2891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5003,
+                    "endColumn": 45,
+                    "endOffset": 5044
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3261,
+                        "endColumn": 45,
+                        "endOffset": 3302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5049,
+                    "endColumn": 52,
+                    "endOffset": 5097
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3354,
+                        "endColumn": 52,
+                        "endOffset": 3402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5102,
+                    "endColumn": 43,
+                    "endOffset": 5141
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2985,
+                        "endColumn": 43,
+                        "endOffset": 3024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5146,
+                    "endColumn": 47,
+                    "endOffset": 5189
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endColumn": 47,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5194,
+                    "endColumn": 50,
+                    "endOffset": 5240
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2799,
+                        "endColumn": 50,
+                        "endOffset": 2845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5245,
+                    "endColumn": 63,
+                    "endOffset": 5304
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2323,
+                        "endColumn": 63,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5309,
+                    "endColumn": 43,
+                    "endOffset": 5348
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2665,
+                        "endColumn": 43,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5353,
+                    "endColumn": 46,
+                    "endOffset": 5395
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3307,
+                        "endColumn": 46,
+                        "endOffset": 3349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5400,
+                    "endColumn": 103,
+                    "endOffset": 5499
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3407,
+                        "endColumn": 103,
+                        "endOffset": 3506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5504,
+                    "endColumn": 47,
+                    "endOffset": 5547
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3079,
+                        "endColumn": 47,
+                        "endOffset": 3122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5552,
+                    "endColumn": 54,
+                    "endOffset": 5602
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3657,
+                        "endColumn": 54,
+                        "endOffset": 3707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5607,
+                    "endColumn": 51,
+                    "endOffset": 5654
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2387,
+                        "endColumn": 51,
+                        "endOffset": 2434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5659,
+                    "endColumn": 48,
+                    "endOffset": 5703
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3559,
+                        "endColumn": 48,
+                        "endOffset": 3603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5708,
+                    "endColumn": 43,
+                    "endOffset": 5747
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2439,
+                        "endColumn": 43,
+                        "endOffset": 2478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5752,
+                    "endColumn": 47,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3511,
+                        "endColumn": 47,
+                        "endOffset": 3554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 44,
+                    "endOffset": 5840
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 44,
+                        "endOffset": 2660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5845,
+                    "endColumn": 44,
+                    "endOffset": 5885
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2483,
+                        "endColumn": 44,
+                        "endOffset": 2523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5890,
+                    "endColumn": 48,
+                    "endOffset": 5934
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3608,
+                        "endColumn": 48,
+                        "endOffset": 3652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5939,
+                    "endColumn": 45,
+                    "endOffset": 5980
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2753,
+                        "endColumn": 45,
+                        "endOffset": 2794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5985,
+                    "endColumn": 49,
+                    "endOffset": 6030
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3029,
+                        "endColumn": 49,
+                        "endOffset": 3074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6035,
+                    "endColumn": 42,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3127,
+                        "endColumn": 42,
+                        "endOffset": 3165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endColumn": 41,
+                    "endOffset": 6115
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3712,
+                        "endColumn": 41,
+                        "endOffset": 3749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6120,
+                    "endColumn": 43,
+                    "endOffset": 6159
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2709,
+                        "endColumn": 43,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6164,
+                    "endColumn": 43,
+                    "endOffset": 6203
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2528,
+                        "endColumn": 43,
+                        "endOffset": 2567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6208,
+                    "endColumn": 46,
+                    "endOffset": 6250
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3214,
+                        "endColumn": 46,
+                        "endOffset": 3256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6255,
+                    "endColumn": 43,
+                    "endOffset": 6294
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3170,
+                        "endColumn": 43,
+                        "endOffset": 3209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6299,
+                    "endColumn": 77,
+                    "endOffset": 6372
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 77,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6377,
+                    "endColumn": 100,
+                    "endOffset": 6473
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endColumn": 100,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6478,
+                    "endColumn": 57,
+                    "endOffset": 6531
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1891,
+                        "endColumn": 57,
+                        "endOffset": 1944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6536,
+                    "endColumn": 67,
+                    "endOffset": 6599
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 67,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6604,
+                    "endColumn": 65,
+                    "endOffset": 6665
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endColumn": 65,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6670,
+                    "endColumn": 60,
+                    "endOffset": 6726
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2244,
+                        "endColumn": 60,
+                        "endOffset": 2300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6731,
+                    "endColumn": 60,
+                    "endOffset": 6787
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2013,
+                        "endColumn": 60,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6792,
+                    "endColumn": 63,
+                    "endOffset": 6851
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1949,
+                        "endColumn": 63,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6856,
+                    "endColumn": 50,
+                    "endOffset": 6902
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 50,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6907,
+                    "endColumn": 51,
+                    "endOffset": 6954
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 51,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6959,
+                    "endColumn": 57,
+                    "endOffset": 7012
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2126,
+                        "endColumn": 57,
+                        "endOffset": 2179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7017,
+                    "endColumn": 51,
+                    "endOffset": 7064
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 51,
+                        "endOffset": 2121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7069,
+                    "endColumn": 57,
+                    "endOffset": 7122
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1651,
+                        "endColumn": 57,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7127,
+                    "endColumn": 57,
+                    "endOffset": 7180
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endColumn": 57,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7185,
+                    "endColumn": 58,
+                    "endOffset": 7239
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 58,
+                        "endOffset": 1646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7244,
+                    "endColumn": 57,
+                    "endOffset": 7297
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 57,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7302,
+                    "endColumn": 57,
+                    "endOffset": 7355
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 57,
+                        "endOffset": 1820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7360,
+                    "endColumn": 59,
+                    "endOffset": 7415
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2184,
+                        "endColumn": 59,
+                        "endOffset": 2239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7420,
+                    "endColumn": 44,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 44,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 51,
+                    "endOffset": 7512
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 51,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7517,
+                    "endColumn": 46,
+                    "endOffset": 7559
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 46,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7564,
+                    "endColumn": 52,
+                    "endOffset": 7612
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 52,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7617,
+                    "endColumn": 53,
+                    "endOffset": 7666
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 53,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7671,
+                    "endColumn": 41,
+                    "endOffset": 7708
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 41,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7713,
+                    "endColumn": 46,
+                    "endOffset": 7755
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 46,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7760,
+                    "endColumn": 53,
+                    "endOffset": 7809
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 53,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7814,
+                    "endColumn": 51,
+                    "endOffset": 7861
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 51,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7866,
+                    "endColumn": 41,
+                    "endOffset": 7903
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 41,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7908,
+                    "endColumn": 54,
+                    "endOffset": 7958
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 54,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7963,
+                    "endColumn": 51,
+                    "endOffset": 8010
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 51,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8015,
+                    "endColumn": 51,
+                    "endOffset": 8062
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 51,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8067,
+                    "endColumn": 60,
+                    "endOffset": 8123
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 60,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8128,
+                    "endColumn": 44,
+                    "endOffset": 8168
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 778,
+                        "endColumn": 44,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8173,
+                    "endColumn": 52,
+                    "endOffset": 8221
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 52,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8226,
+                    "endColumn": 50,
+                    "endOffset": 8272
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 50,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8277,
+                    "endColumn": 52,
+                    "endOffset": 8325
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/bixia/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 52,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    }
+]

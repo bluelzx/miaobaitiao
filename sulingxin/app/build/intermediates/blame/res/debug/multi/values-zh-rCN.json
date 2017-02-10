@@ -1,0 +1,2069 @@
+[
+    {
+        "outputFile": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 79,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endLine": 47,
+                        "endColumn": 19,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endLine": 64,
+                    "endColumn": 19,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/consume_types.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 1924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endLine": 68,
+                    "endColumn": 19,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4584,
+                        "endLine": 107,
+                        "endColumn": 19,
+                        "endOffset": 4706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endLine": 72,
+                    "endColumn": 19,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4440,
+                        "endLine": 101,
+                        "endColumn": 19,
+                        "endOffset": 4557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 95,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 95,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 106,
+                    "endOffset": 2290
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 106,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2295,
+                    "endColumn": 122,
+                    "endOffset": 2413
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2418,
+                    "endColumn": 94,
+                    "endOffset": 2508
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 94,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2513,
+                    "endColumn": 99,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 99,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 81,
+                    "endOffset": 2690
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 81,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2695,
+                    "endColumn": 96,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 96,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 105,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 105,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 75,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 75,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 75,
+                    "endOffset": 3045
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 75,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3050,
+                    "endColumn": 77,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 77,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 95,
+                    "endOffset": 3219
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 95,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3224,
+                    "endColumn": 95,
+                    "endOffset": 3315
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 95,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3320,
+                    "endColumn": 94,
+                    "endOffset": 3410
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 94,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3415,
+                    "endColumn": 96,
+                    "endOffset": 3507
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 96,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3512,
+                    "endColumn": 94,
+                    "endOffset": 3602
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 94,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3607,
+                    "endColumn": 97,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 97,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 111,
+                    "endOffset": 3812
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 111,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3817,
+                    "endColumn": 93,
+                    "endOffset": 3906
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 93,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3911,
+                    "endColumn": 40,
+                    "endOffset": 3947
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 40,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3952,
+                    "endColumn": 54,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 54,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endColumn": 57,
+                    "endOffset": 4060
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 57,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4065,
+                    "endColumn": 57,
+                    "endOffset": 4118
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 57,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4123,
+                    "endColumn": 56,
+                    "endOffset": 4175
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 56,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4180,
+                    "endColumn": 57,
+                    "endOffset": 4233
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 57,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4238,
+                    "endColumn": 47,
+                    "endOffset": 4281
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4146,
+                        "endColumn": 47,
+                        "endOffset": 4189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4286,
+                    "endColumn": 45,
+                    "endOffset": 4327
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3918,
+                        "endColumn": 45,
+                        "endOffset": 3959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4332,
+                    "endColumn": 42,
+                    "endOffset": 4370
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4007,
+                        "endColumn": 42,
+                        "endOffset": 4045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4375,
+                    "endColumn": 48,
+                    "endOffset": 4419
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4365,
+                        "endColumn": 48,
+                        "endOffset": 4409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4424,
+                    "endColumn": 44,
+                    "endOffset": 4464
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3783,
+                        "endColumn": 44,
+                        "endOffset": 3823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4469,
+                    "endColumn": 42,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3964,
+                        "endColumn": 42,
+                        "endOffset": 4002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 46,
+                    "endOffset": 4554
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3828,
+                        "endColumn": 46,
+                        "endOffset": 3870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4559,
+                    "endColumn": 52,
+                    "endOffset": 4607
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4093,
+                        "endColumn": 52,
+                        "endOffset": 4141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4612,
+                    "endColumn": 50,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4314,
+                        "endColumn": 50,
+                        "endOffset": 4360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 42,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4050,
+                        "endColumn": 42,
+                        "endOffset": 4088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endColumn": 42,
+                    "endOffset": 4744
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3875,
+                        "endColumn": 42,
+                        "endOffset": 3913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4749,
+                    "endColumn": 63,
+                    "endOffset": 4808
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4250,
+                        "endColumn": 63,
+                        "endOffset": 4309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4813,
+                    "endColumn": 55,
+                    "endOffset": 4864
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4194,
+                        "endColumn": 55,
+                        "endOffset": 4245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4869,
+                    "endColumn": 40,
+                    "endOffset": 4905
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2945,
+                        "endColumn": 40,
+                        "endOffset": 2981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4910,
+                    "endColumn": 47,
+                    "endOffset": 4953
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endColumn": 47,
+                        "endOffset": 2940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4958,
+                    "endColumn": 45,
+                    "endOffset": 4999
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2851,
+                        "endColumn": 45,
+                        "endOffset": 2892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5004,
+                    "endColumn": 45,
+                    "endOffset": 5045
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3262,
+                        "endColumn": 45,
+                        "endOffset": 3303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5050,
+                    "endColumn": 52,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3355,
+                        "endColumn": 52,
+                        "endOffset": 3403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 43,
+                    "endOffset": 5142
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2986,
+                        "endColumn": 43,
+                        "endOffset": 3025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5147,
+                    "endColumn": 47,
+                    "endOffset": 5190
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2573,
+                        "endColumn": 47,
+                        "endOffset": 2616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5195,
+                    "endColumn": 50,
+                    "endOffset": 5241
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2800,
+                        "endColumn": 50,
+                        "endOffset": 2846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5246,
+                    "endColumn": 63,
+                    "endOffset": 5305
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2324,
+                        "endColumn": 63,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5310,
+                    "endColumn": 43,
+                    "endOffset": 5349
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2666,
+                        "endColumn": 43,
+                        "endOffset": 2705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5354,
+                    "endColumn": 46,
+                    "endOffset": 5396
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3308,
+                        "endColumn": 46,
+                        "endOffset": 3350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5401,
+                    "endColumn": 103,
+                    "endOffset": 5500
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3408,
+                        "endColumn": 103,
+                        "endOffset": 3507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5505,
+                    "endColumn": 47,
+                    "endOffset": 5548
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3080,
+                        "endColumn": 47,
+                        "endOffset": 3123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5553,
+                    "endColumn": 54,
+                    "endOffset": 5603
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3658,
+                        "endColumn": 54,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5608,
+                    "endColumn": 51,
+                    "endOffset": 5655
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2388,
+                        "endColumn": 51,
+                        "endOffset": 2435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5660,
+                    "endColumn": 48,
+                    "endOffset": 5704
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3560,
+                        "endColumn": 48,
+                        "endOffset": 3604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5709,
+                    "endColumn": 43,
+                    "endOffset": 5748
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2440,
+                        "endColumn": 43,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5753,
+                    "endColumn": 47,
+                    "endOffset": 5796
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3512,
+                        "endColumn": 47,
+                        "endOffset": 3555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5801,
+                    "endColumn": 44,
+                    "endOffset": 5841
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2621,
+                        "endColumn": 44,
+                        "endOffset": 2661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5846,
+                    "endColumn": 44,
+                    "endOffset": 5886
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2484,
+                        "endColumn": 44,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5891,
+                    "endColumn": 48,
+                    "endOffset": 5935
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3609,
+                        "endColumn": 48,
+                        "endOffset": 3653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5940,
+                    "endColumn": 45,
+                    "endOffset": 5981
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2754,
+                        "endColumn": 45,
+                        "endOffset": 2795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5986,
+                    "endColumn": 49,
+                    "endOffset": 6031
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3030,
+                        "endColumn": 49,
+                        "endOffset": 3075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6036,
+                    "endColumn": 42,
+                    "endOffset": 6074
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3128,
+                        "endColumn": 42,
+                        "endOffset": 3166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6079,
+                    "endColumn": 41,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 41,
+                        "endOffset": 3750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endColumn": 43,
+                    "endOffset": 6160
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2710,
+                        "endColumn": 43,
+                        "endOffset": 2749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6165,
+                    "endColumn": 43,
+                    "endOffset": 6204
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2529,
+                        "endColumn": 43,
+                        "endOffset": 2568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6209,
+                    "endColumn": 46,
+                    "endOffset": 6251
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3215,
+                        "endColumn": 46,
+                        "endOffset": 3257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6256,
+                    "endColumn": 43,
+                    "endOffset": 6295
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3171,
+                        "endColumn": 43,
+                        "endOffset": 3210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6300,
+                    "endColumn": 77,
+                    "endOffset": 6373
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 77,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6378,
+                    "endColumn": 100,
+                    "endOffset": 6474
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endColumn": 100,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6479,
+                    "endColumn": 57,
+                    "endOffset": 6532
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 57,
+                        "endOffset": 1945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6537,
+                    "endColumn": 67,
+                    "endOffset": 6600
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 67,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6605,
+                    "endColumn": 65,
+                    "endOffset": 6666
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endColumn": 65,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6671,
+                    "endColumn": 60,
+                    "endOffset": 6727
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2245,
+                        "endColumn": 60,
+                        "endOffset": 2301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6732,
+                    "endColumn": 60,
+                    "endOffset": 6788
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2014,
+                        "endColumn": 60,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6793,
+                    "endColumn": 63,
+                    "endOffset": 6852
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1950,
+                        "endColumn": 63,
+                        "endOffset": 2009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6857,
+                    "endColumn": 50,
+                    "endOffset": 6903
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 50,
+                        "endOffset": 1410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6908,
+                    "endColumn": 51,
+                    "endOffset": 6955
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1415,
+                        "endColumn": 51,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6960,
+                    "endColumn": 57,
+                    "endOffset": 7013
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2127,
+                        "endColumn": 57,
+                        "endOffset": 2180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7018,
+                    "endColumn": 51,
+                    "endOffset": 7065
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endColumn": 51,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7070,
+                    "endColumn": 57,
+                    "endOffset": 7123
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1652,
+                        "endColumn": 57,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7128,
+                    "endColumn": 57,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 57,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 58,
+                    "endOffset": 7240
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 58,
+                        "endOffset": 1647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7245,
+                    "endColumn": 57,
+                    "endOffset": 7298
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endColumn": 57,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7303,
+                    "endColumn": 57,
+                    "endOffset": 7356
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 57,
+                        "endOffset": 1821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7361,
+                    "endColumn": 59,
+                    "endOffset": 7416
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2185,
+                        "endColumn": 59,
+                        "endOffset": 2240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7421,
+                    "endColumn": 44,
+                    "endOffset": 7461
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 44,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7466,
+                    "endColumn": 51,
+                    "endOffset": 7513
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 51,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7518,
+                    "endColumn": 46,
+                    "endOffset": 7560
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 46,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7565,
+                    "endColumn": 52,
+                    "endOffset": 7613
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7618,
+                    "endColumn": 53,
+                    "endOffset": 7667
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 53,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7672,
+                    "endColumn": 41,
+                    "endOffset": 7709
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 41,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7714,
+                    "endColumn": 46,
+                    "endOffset": 7756
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 46,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7761,
+                    "endColumn": 53,
+                    "endOffset": 7810
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 53,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7815,
+                    "endColumn": 51,
+                    "endOffset": 7862
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 51,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7867,
+                    "endColumn": 41,
+                    "endOffset": 7904
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 41,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7909,
+                    "endColumn": 54,
+                    "endOffset": 7959
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 54,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7964,
+                    "endColumn": 51,
+                    "endOffset": 8011
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 51,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8016,
+                    "endColumn": 51,
+                    "endOffset": 8063
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 51,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8068,
+                    "endColumn": 60,
+                    "endOffset": 8124
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 60,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8129,
+                    "endColumn": 44,
+                    "endOffset": 8169
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 779,
+                        "endColumn": 44,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8174,
+                    "endColumn": 52,
+                    "endOffset": 8222
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 52,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8227,
+                    "endColumn": 50,
+                    "endOffset": 8273
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 50,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 8278,
+                    "endColumn": 52,
+                    "endOffset": 8326
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/App/sulingxin/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 52,
+                        "endOffset": 612
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_f6030da1945c3ffc66e5dce5d4c3bd8c16df1ad9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_6e3573505b02478020bf3fec299e7d061fea96b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_f8e78af3eece586854fe75203703de919700c0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_6e3573505b02478020bf3fec299e7d061fea96b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f6030da1945c3ffc66e5dce5d4c3bd8c16df1ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d3b99bc7051766e35479caf3944cae6605511d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_f7b739b6c97e17f300273470be3b644c860091f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_4f83cab65ae58bc587d265bfc2643ae42f670dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_d3b99bc7051766e35479caf3944cae6605511d83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4f83cab65ae58bc587d265bfc2643ae42f670dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_757f9bd1f282438470584282b62cb1c7514e949c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_757f9bd1f282438470584282b62cb1c7514e949c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f8e78af3eece586854fe75203703de919700c0d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d3e9792f9cd6661fdb93837dd7fd4dc37a90eb37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_32979ca2aac9f55d83a17482222ea6f976889bce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca4daa9c09f8fff3a3268d6181412d19c820349f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ffded1d49fe52535d73126d5c65a317c8e1d22c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/cn.bingoogolapple-bga-banner-2.1.6_90078597e4df089c53a188679c38114cfd6f1610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_32979ca2aac9f55d83a17482222ea6f976889bce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bingoogolapple-bga-banner-2.1.6_90078597e4df089c53a188679c38114cfd6f1610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f7b739b6c97e17f300273470be3b644c860091f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_c46321c7a50278083a49dec3e3eea1d7fbd273fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_513a63c8ce79e69e897b600ba869df7bff0d1b14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_513a63c8ce79e69e897b600ba869df7bff0d1b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_bf73a01a22688e31028af853c9f076fadf23b4e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c46321c7a50278083a49dec3e3eea1d7fbd273fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_b4bcbf640afbc3cf70002a9168f651bc6b7935bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_61b438b7035b37e047d4234070330f95cf0f0cee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b4bcbf640afbc3cf70002a9168f651bc6b7935bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_d3e9792f9cd6661fdb93837dd7fd4dc37a90eb37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/annotations-java5-15.0_d99b43bffb8c5af8d00eb5a0e8a74addc7bf59ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_d99b43bffb8c5af8d00eb5a0e8a74addc7bf59ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.7/7224178d65af1443d8be61a2c20914bf3a6088fd/analytics-6.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7224178d65af1443d8be61a2c20914bf3a6088fd">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/analytics-6.0.7_5bdd0534a5f90c90be749fbdf8f087c17b6eef0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_61b438b7035b37e047d4234070330f95cf0f0cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.7/7224178d65af1443d8be61a2c20914bf3a6088fd/analytics-6.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7224178d65af1443d8be61a2c20914bf3a6088fd">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/analytics-6.0.7_5bdd0534a5f90c90be749fbdf8f087c17b6eef0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/me.majiajie/pager-bottom-tab-strip/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cbd605407170445cf5aa765ce4cb4947df0d0d9c">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/me.majiajie-pager-bottom-tab-strip-1.0.0_89f3089f4ec54a25c8ffdb6ff85ecba58d8124fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bf73a01a22688e31028af853c9f076fadf23b4e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1cd0894fb7c11cd46ada36f5192a634b11f71247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/me.majiajie/pager-bottom-tab-strip/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cbd605407170445cf5aa765ce4cb4947df0d0d9c">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.majiajie-pager-bottom-tab-strip-1.0.0_89f3089f4ec54a25c8ffdb6ff85ecba58d8124fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9a85a1b2a9b9062080fecbc59b339d1e8600cd2">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78a150f8e727fa660d7b04bee905367c62cd7b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_1cd0894fb7c11cd46ada36f5192a634b11f71247.jar" />
+    </item>
+
+</items>

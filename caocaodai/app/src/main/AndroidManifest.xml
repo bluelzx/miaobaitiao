@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Michael.AccountBook">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.Michael.AccountBook.MyAppliction"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.Michael.AccountBook.SplashActivity"
+            android:theme="@style/FirstTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.Michael.CircleChartActivity" />
+        <activity android:name="com.Michael.ArcChartActivity" />
+        <activity android:name="com.Michael.outArcChartActivity" />
+        <activity
+            android:name="ericssonlabs.BarCodeTestActivity"
+            android:parentActivityName="com.Michael.MainActivity" />
+        <!-- ZXing 二维码扫描的入口点 -->
+        <activity
+            android:name="zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.Michael.MainActivity" />
+        <activity android:name="com.Michael.AccountBook.AboutActivity" />
+        <activity
+            android:name="com.Michael.PuzzleActivity"
+            android:parentActivityName="com.Michael.MainActivity" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="585b9df245297d750f001905" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="xinhe" />
+
+        <activity android:name="com.Michael.AccountBook.GuideActivity"></activity>
+    </application>
+
+</manifest>

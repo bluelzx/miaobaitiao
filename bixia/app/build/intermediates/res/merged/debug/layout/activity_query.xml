@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+
+    <!-- 顶部标题栏 -->
+
+    <fragment
+        android:id="@+id/title_query_record"
+        android:name="cn.hjf.bixia.fragment.CommonHeaderFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <!-- 滚动的信息输入区 -->
+
+    <ScrollView
+        android:id="@+id/sv_record_info_input"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btn_query"
+        android:layout_below="@id/title_query_record"
+        android:layout_marginBottom="5dp" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <!-- 名称 -->
+
+            <LinearLayout
+                android:id="@+id/llyt_record_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@color/white" >
+
+                <TextView
+                    android:id="@+id/tv_record_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/label_name"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/textsize_content" />
+
+                <EditText
+                    android:id="@+id/et_record_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:hint="@string/hint_name"
+                    android:textColor="@color/color_textview_content"
+                    android:maxLength="20"
+                    android:inputType="text"
+                    android:padding="10dp"
+                    android:textSize="@dimen/textsize_content" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+            <!-- 类别 -->
+
+            <LinearLayout
+                android:id="@+id/llyt_record_type"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/llyt_record_name"
+                android:layout_marginTop="1dp"
+                android:background="@color/white" >
+
+                <TextView
+                    android:id="@+id/tv_record_item"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/label_type"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/textsize_content" />
+
+
+                <RelativeLayout
+                    android:id="@+id/rl_record_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:id="@+id/tv_record_type"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_toLeftOf="@+id/iv_ic_right"
+                        android:background="@null"
+                        android:gravity="center_vertical"
+                        android:hint="@string/hint_type"
+                        android:textColor="@color/color_textview_content"
+                        android:padding="10dp"
+                        android:textSize="@dimen/textsize_content" />
+
+                    <ImageView
+                        android:id="@id/iv_ic_right"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_alignParentRight="true"
+                        android:padding="16dp"
+                        android:src="@drawable/listitem_btn_right" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <!-- 日期 -->
+
+            <LinearLayout
+                android:id="@+id/llyt_record_date_start"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/llyt_record_type"
+                android:layout_marginTop="1dp"
+                android:background="@color/white" >
+
+                <TextView
+                    android:id="@+id/tv_record_date_start_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/label_start_date"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/textsize_content" />
+
+                <TextView
+                    android:id="@+id/tv_record_date_start"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:padding="10dp"
+                    android:textColor="@color/color_textview_content"
+                    android:hint="@string/hint_start_date"
+                    android:textSize="@dimen/textsize_content" />
+            </LinearLayout>
+
+            <!-- 时间 -->
+
+            <LinearLayout
+                android:id="@+id/llyt_record_date_end"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/llyt_record_date_start"
+                android:layout_marginTop="1dp"
+                android:background="@color/white" >
+
+                <TextView
+                    android:id="@+id/tv_record_time_end_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/label_end_date"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/textsize_content" />
+
+                <TextView
+                    android:id="@+id/tv_record_time_end"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    android:padding="10dp"
+                    android:hint="@string/hint_end_date"
+                    android:textColor="@color/color_textview_content"
+                    android:textSize="@dimen/textsize_content" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <!-- 创建按钮 -->
+
+    <Button
+        android:id="@+id/btn_query"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_button"
+        android:padding="10dp"
+        android:text="@string/btn_query_consume_record"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/textsize_indicator" />
+
+</RelativeLayout>

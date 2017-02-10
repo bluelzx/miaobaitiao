@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+    
+        <!-- 顶部标题栏 -->
+
+    <fragment
+        android:id="@+id/title_statistic_select"
+        android:name="cn.hjf.bixia.fragment.CommonHeaderFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+    
+    
+    <ListView
+        android:id="@+id/lv_statistic_select_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/title_statistic_select"
+        android:scrollbars="none"
+        android:overScrollMode="never"
+        android:dividerHeight="0.5dp"
+        android:divider="@color/gray_shallow"
+        android:listSelector="@color/transparent"
+        />
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_common_header_parent"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/transparent" >
+
+    <!-- 操作图标 -->
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_button"
+        android:padding="15dp"
+        android:src="@drawable/ic_left_arrow_white" />
+
+    <!-- 底色 -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_toRightOf="@id/iv_icon"
+        android:background="@color/theme" />
+
+    <!-- 标题 -->
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_indicator" />
+
+</RelativeLayout>

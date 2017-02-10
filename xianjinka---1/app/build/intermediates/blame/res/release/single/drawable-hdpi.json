@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/bg.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/erweima.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/erweima.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/home.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/partition.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/partition.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/navbar.9.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/navbar.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/bug.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/build/generated/res/pngs/release/drawable-hdpi/bug.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/xianjinka---1/app/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/xianjinka---1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

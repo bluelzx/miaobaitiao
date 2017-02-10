@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="consume_types">
+        <item>汇总</item>
+        <item>衣服</item>
+        <item>食物</item>
+        <item>住宿</item>
+        <item>交通</item>
+        <item>社交</item>
+        <item>娱乐</item>
+        <item>办公</item>
+        <item>学习</item>
+        <item>医疗</item>
+        <item>日常</item>
+        <item>投资</item>
+        <item>购物</item>
+        <item>运动</item>
+        <item>宠物</item>
+        <item>数码</item>
+        <item>旅行</item>
+        <item>通讯</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="consume_types_icon_name">
+        <item>ic_all_type</item>
+        <item>ic_clothes</item>
+        <item>ic_food</item>
+        <item>ic_house</item>
+        <item>ic_traffic</item>
+        <item>ic_social</item>
+        <item>ic_entertainment</item>
+        <item>ic_work</item>
+        <item>ic_study</item>
+        <item>ic_medical</item>
+        <item>ic_daily</item>
+        <item>ic_investment</item>
+        <item>ic_shopping</item>
+        <item>ic_sport</item>
+        <item>ic_pet</item>
+        <item>ic_digital</item>
+        <item>ic_travel</item>
+        <item>ic_communication</item>
+        <item>ic_other_type</item>
+    </string-array>
+    <string-array name="consume_types_type">
+        <item>ALL</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+        <item>INSIDE</item>
+    </string-array>
+    <string-array name="setting_select_menu">
+        <item>密码重置</item>
+        <!-- <item>主题设置</item> -->
+    </string-array>
+    <string-array name="statistic_select_menu">
+        <item>按类型统计</item>
+        <item>按月份统计</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="app_name">速领薪</string>
+    <string name="btn_add_consume_record">记一笔</string>
+    <string name="btn_create_consume_record">创 建</string>
+    <string name="btn_modify_consume_record">修 改</string>
+    <string name="btn_query_consume_record">查 询</string>
+    <string name="btn_submit_consume_record">提 交</string>
+    <string name="hint_add_type">最多4个字</string>
+    <string name="hint_consumer">消费人</string>
+    <string name="hint_date">选择日期</string>
+    <string name="hint_end_date">选择结束日期</string>
+    <string name="hint_name">消费记录名称</string>
+    <string name="hint_payer">付款人</string>
+    <string name="hint_price">消费金额(元)</string>
+    <string name="hint_remark">备注信息(50个字以内)</string>
+    <string name="hint_start_date">选择开始日期</string>
+    <string name="hint_time">选择时间</string>
+    <string name="hint_type">选择类别</string>
+    <string name="hint_type_name_length_long">类型名称长度太长</string>
+    <string name="hint_type_name_null">请填写类型名称</string>
+    <string name="label_add">添加</string>
+    <string name="label_add_type">添加类型</string>
+    <string name="label_all_type">汇总</string>
+    <string name="label_author">作 者：</string>
+    <string name="label_author_content">黄金夫</string>
+    <string name="label_cancel">取消</string>
+    <string name="label_consumer">消 费：</string>
+    <string name="label_create_time">创 建：</string>
+    <string name="label_current_month_sum">当月累计消费金额(元)</string>
+    <string name="label_date">日 期：</string>
+    <string name="label_declare">声 明：</string>
+    <string name="label_declare_content">"      本应用所涉及的图片资源均来自互联网，本应用不做任何商业用途，不会侵犯图片资源所有者的利益。"</string>
+    <string name="label_end_date">结 束：</string>
+    <string name="label_forget_pwd">忘记密码？点击重置</string>
+    <string name="label_input_indicator">*</string>
+    <string name="label_loading">加载中...</string>
+    <string name="label_name">名 称：</string>
+    <string name="label_no_data">没有数据!</string>
+    <string name="label_payer">付 款：</string>
+    <string name="label_price">金 额：</string>
+    <string name="label_ratio">"%1$s%%"</string>
+    <string name="label_remark">备 注：</string>
+    <string name="label_start_date">开 始：</string>
+    <string name="label_sum">总 计：</string>
+    <string name="label_sure">确认</string>
+    <string name="label_time">时 间：</string>
+    <string name="label_type">类 别：</string>
+    <string name="label_version">版 本：</string>
+    <string name="label_year">年 份：</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tip_common_unknown_error">未知错误</string>
+    <string name="tip_create_consume_record_fail">新建消费记录失败</string>
+    <string name="tip_create_consume_type_fail">消费类型添加失败</string>
+    <string name="tip_delete_record">删除后不可恢复\n确认删除？</string>
+    <string name="tip_delete_record_fail">%1$s 删除失败</string>
+    <string name="tip_delete_record_success">%1$s 删除成功</string>
+    <string name="tip_exit_app">再按一次返回键退出</string>
+    <string name="tip_no_more_data">没有更多数据</string>
+    <string name="tip_password_conflict">两次密码不一样</string>
+    <string name="tip_password_error">密码错误</string>
+    <string name="tip_record_date_null">消费日期没有填写</string>
+    <string name="tip_record_name_null">消费名称没有填写</string>
+    <string name="tip_record_price_null">消费金额没有填写</string>
+    <string name="tip_record_time_null">消费时间没有填写</string>
+    <string name="tip_record_type_null">消费类型没有选择</string>
+    <string name="tip_set_password_success">密码设置成功</string>
+    <string name="title_about">关于信息</string>
+    <string name="title_add_record">新建消费记录</string>
+    <string name="title_analyse">消费统计</string>
+    <string name="title_analyse_item">按类型统计</string>
+    <string name="title_analyse_month">按月份统计</string>
+    <string name="title_back">返回</string>
+    <string name="title_consume">消费记录</string>
+    <string name="title_input_password">输入密码</string>
+    <string name="title_item_manager">账目管理</string>
+    <string name="title_main">首页</string>
+    <string name="title_modify_record">修改消费记录</string>
+    <string name="title_query_record">记录查询</string>
+    <string name="title_set_password">设置密码</string>
+    <string name="title_set_password_repeat">再次输入密码</string>
+    <string name="title_setting">设置</string>
+    <string name="title_theme_setting">主题设置</string>
+    <string name="title_type_select">类型选择</string>
+    <string name="title_view_record">消费详细信息</string>
+</resources>

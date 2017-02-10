@@ -1,0 +1,7 @@
+#Sat Jan 14 12:13:28 CST 2017
+base.0=/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ffded1d49fe52535d73126d5c65a317c8e1d22c5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78a150f8e727fa660d7b04bee905367c62cd7b40/classes.dex
+base.1=/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78a150f8e727fa660d7b04bee905367c62cd7b40
+file.0=/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ffded1d49fe52535d73126d5c65a317c8e1d22c5/classes.dex

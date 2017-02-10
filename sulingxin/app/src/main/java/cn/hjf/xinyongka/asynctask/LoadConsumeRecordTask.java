@@ -1,0 +1,51 @@
+package cn.hjf.xinyongka.asynctask;
+
+import java.util.List;
+
+import cn.hjf.xinyongka.business.ConsumeRecordManagerBusiness;
+import cn.hjf.xinyongka.businessmodel.ConsumeRecord;
+import cn.hjf.xinyongka.businessmodel.QueryInfo;
+import android.content.Context;
+import android.os.AsyncTask;
+
+/**
+ * 消费记录查询的AsyncTask
+ * 
+ * @author huangjinfu
+ * 
+ */
+public class LoadConsumeRecordTask extends
+		AsyncTask<QueryInfo, Void, List<ConsumeRecord>> {
+
+	private ConsumeRecordManagerBusiness mConsumeRecordManagerBusines; //消费记录管理业务逻辑
+	private LoadConsumeRecordListener mListener; // 查询结果回调对象
+	private Context mContext; // 上下文对象
+	
+	public interface LoadConsumeRecordListener {
+	    public abstract void OnLoadRecordCompleted(List<ConsumeRecord> consumeRecords);
+	}
+
+	public LoadConsumeRecordTask(Context context, LoadConsumeRecordListener listener) {
+		this.mContext = context;
+		this.mListener = listener;
+		mConsumeRecordManagerBusines = new ConsumeRecordManagerBusiness(mContext);
+	}
+
+	@Override
+	protected List<ConsumeRecord> doInBackground(QueryInfo... params) {
+//	    try {
+//            Thread.sleep(1500);
+//        } catch (InterruptedException e) {
+//            // TODO Auto-generated catch block
+//            e.printStackTrace();
+//        }
+	    return mConsumeRecordManagerBusines.queryRecords(params[0]);
+	}
+
+	@Override
+	protected void onPostExecute(List<ConsumeRecord> result) {
+		super.onPostExecute(result);
+		mListener.OnLoadRecordCompleted(result);
+
+	}
+}

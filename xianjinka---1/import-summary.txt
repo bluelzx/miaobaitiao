@@ -1,0 +1,103 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/inspectionProfiles/
+* .idea/inspectionProfiles/Project_Default.xml
+* .idea/inspectionProfiles/profiles_settings.xml
+* .idea/libraries/
+* .idea/libraries/android_support_v4.xml
+* .idea/libraries/xUtils_2_6_13.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/uiDesigner.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* AndroidProjects.iml
+* README.md
+* ant.properties
+* build.xml
+* out/
+* out/production/
+* out/production/AndroidProjects/
+* out/production/AndroidProjects/AndroidProjects.apk
+* out/production/AndroidProjects/AndroidProjects.unaligned.apk
+* out/production/AndroidProjects/com/
+* out/production/AndroidProjects/com/Michael/
+* out/production/AndroidProjects/com/Michael/AccountBook/
+* out/production/AndroidProjects/com/Michael/AccountBook/BuildConfig.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$array.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$attr.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$drawable.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$id.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$layout.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$menu.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R$string.class
+* out/production/AndroidProjects/com/Michael/AccountBook/R.class
+* out/production/AndroidProjects/com/Michael/ArcChartActivity$1.class
+* out/production/AndroidProjects/com/Michael/ArcChartActivity$2.class
+* out/production/AndroidProjects/com/Michael/ArcChartActivity.class
+* out/production/AndroidProjects/com/Michael/ArcChartView.class
+* out/production/AndroidProjects/com/Michael/CircleChartActivity$1.class
+* out/production/AndroidProjects/com/Michael/CircleChartActivity$2.class
+* out/production/AndroidProjects/com/Michael/CircleChartActivity$MyPagerAdapter.class
+* out/production/AndroidProjects/com/Michael/CircleChartActivity.class
+* out/production/AndroidProjects/com/Michael/DummyFragemnt.class
+* out/production/AndroidProjects/com/Michael/MainActivity$1.class
+* out/production/AndroidProjects/com/Michael/MainActivity$2.class
+* out/production/AndroidProjects/com/Michael/MainActivity.class
+* out/production/AndroidProjects/com/Michael/MySQLiteDatabaseHelper.class
+* out/production/AndroidProjects/com/Michael/MySQLiteOpenHelper.class
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/xUtils-2.6.13.jar => app/libs/xUtils-2.6.13.jar
+* libs/zxing.jar => app/libs/zxing.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

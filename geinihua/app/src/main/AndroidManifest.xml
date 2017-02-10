@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.apple.geinihua">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.example.apple.geinihua.activity.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="icon">
+        <activity
+            android:name="com.example.apple.geinihua.activity.GuildActivity"
+            android:theme="@style/FirstTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".utils.AddDiaryActivity"/>
+        <activity android:name="com.example.apple.geinihua.activity.AddBillActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AddCardActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AddNoteActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllBillActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllCardActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllCardItemActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllCompanyItemActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllDiaryActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllNotesActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.AllPlaceItemActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.BaseSettingActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.CloudActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.LoginActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.MainActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.OneDayAllActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.PassToActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.RegistActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.SettingActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.UserBaseInfoActivity" />
+        <activity android:name="com.example.apple.geinihua.activity.GuideActivity"
+            android:theme="@style/AppTheme.Splash"/>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5899553eaed17959420015e4" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="xinhe" />
+        <activity android:name="com.example.apple.geinihua.activity.Main2Activity"
+            android:theme="@style/AppTheme1"/>
+    </application>
+
+</manifest>

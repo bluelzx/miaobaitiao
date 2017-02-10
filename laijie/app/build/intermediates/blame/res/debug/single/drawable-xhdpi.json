@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/lod_01.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/lod_01.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/lod_03.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/lod_03.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/lod_02.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/lod_02.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/about.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/about.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/laijie/app/build/intermediates/res/merged/debug/drawable-xhdpi/loding.png",
+        "source": "/Users/apple/Documents/App/laijie/app/src/main/res/drawable-xhdpi/loding.png"
+    }
+]

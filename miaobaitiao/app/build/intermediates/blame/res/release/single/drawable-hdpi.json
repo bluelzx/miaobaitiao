@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/loding.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/loding.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/about.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/erweima.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/erweima.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/home1.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/home1.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/bug.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/build/generated/res/pngs/release/drawable-hdpi/bug.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/miaobaitiao/app/build/intermediates/res/merged/release/drawable-hdpi/logo.png",
+        "source": "/Users/apple/Documents/App/miaobaitiao/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]

@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "com.example.weimiaobaitiao"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 2
+        versionName "2.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'cn.bingoogolapple:bga-banner:2.1.6@aar'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'me.majiajie:pager-bottom-tab-strip:1.0.0'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:support-v4:24.2.1'
+}

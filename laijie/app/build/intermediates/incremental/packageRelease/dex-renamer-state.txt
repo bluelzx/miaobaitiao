@@ -1,0 +1,4 @@
+#Tue Feb 07 17:49:31 CST 2017
+base.0=/Users/apple/Documents/App/laijie/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/apple/Documents/App/laijie/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

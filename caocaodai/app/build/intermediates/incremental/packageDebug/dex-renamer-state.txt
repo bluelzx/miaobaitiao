@@ -1,0 +1,7 @@
+#Wed Jan 11 14:23:04 CST 2017
+base.0=/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abbe8659d31c22317dc7383fce6d88ac49a39aae
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_860ee53bbdbb4e8f1a0db937d4ec071c2a7f34bf/classes.dex
+base.1=/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_860ee53bbdbb4e8f1a0db937d4ec071c2a7f34bf
+file.0=/Users/apple/Documents/App/caocaodai/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abbe8659d31c22317dc7383fce6d88ac49a39aae/classes.dex

@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_search_black_24dp.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_launcher.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_travel.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_travel.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_loading.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_loading.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_pet.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_pet.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_digital.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_digital.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_zhichu_type_default.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_zhichu_type_default.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_shopping_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_shopping_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_txt_btn.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_txt_btn.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_logo_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_logo_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_study_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_study_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_textview.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_textview.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_traffic.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_traffic.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_right_hl.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_right_hl.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_medical_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_medical_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_loading_white_rotate.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_loading_white_rotate.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_house_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_house_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_back_hl.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_back_hl.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_communication_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_communication_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/listitem_btn_right.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/listitem_btn_right.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_delete_data.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_delete_data.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_loading_rotate.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_loading_rotate.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_txt_btn_press.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_txt_btn_press.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_shopping.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_shopping.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_food_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_food_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_button_disable.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_button_disable.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_pet_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_pet_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_loading_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_loading_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/unknown.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/unknown.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_clothes_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_clothes_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_social_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_social_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_version_update.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_version_update.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_white_round_rect.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_white_round_rect.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_other_type.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_other_type.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_close.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_close.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_round_theme.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_round_theme.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_left_arrow_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_left_arrow_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_back.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_back.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_txt_btn_normal.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_txt_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_pay.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_pay.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_study.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_study.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_sport.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_sport.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_password_protect.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_password_protect.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_income.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_income.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_abslistview_item.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_abslistview_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_add_type.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_add_type.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_statistic.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_statistic.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_house.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_house.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_layout_right.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_layout_right.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_right.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_right.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_textview_left.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_textview_left.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bga_banner_selector_point_hollow.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/res/drawable/bga_banner_selector_point_hollow.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_pay_limit.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_pay_limit.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_button_press.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_button_press.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/other.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/other.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_personal_normal.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_personal_normal.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_advice_feedback.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_advice_feedback.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_social.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_social.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_progress_type_statistic.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_progress_type_statistic.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_work.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_work.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_account_circle_black_24dp.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_button_normal.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_button_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_other_type_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_other_type_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bga_banner_selector_point_solid.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/res/drawable/bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_daily.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_daily.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_about_us.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_about_us.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_personal.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_personal.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_traffic_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_traffic_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_food.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_food.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/btn_personal_hl.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/btn_personal_hl.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_record.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_record.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_calendar_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_calendar_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_medical.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_medical.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_investment.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_investment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_all_type_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_all_type_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_daily_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_daily_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_black.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_black.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_setting.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_setting.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_investment_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_investment_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_layout.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_home_black_24dp.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_sport_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_sport_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_work_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_work_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_settings_black_24dp.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/title_back_btn.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/title_back_btn.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_button.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_button.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_entertainment.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_entertainment.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_communication.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_communication.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_ok_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_ok_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_clothes.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_clothes.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_all_type.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_all_type.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_entertainment_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_entertainment_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_digital_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_digital_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_travel_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_travel_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/bg_round_gray.xml",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/bg_round_gray.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_account_white.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_account_white.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/sulingxin/app/build/intermediates/res/merged/release/drawable/ic_no_data.png",
+        "source": "/Users/apple/Documents/App/sulingxin/app/src/main/res/drawable/ic_no_data.png"
+    }
+]

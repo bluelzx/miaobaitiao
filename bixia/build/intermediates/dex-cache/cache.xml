@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a98a8f5b52f07dae65a8d210fa75a4d2be2b072">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.github.githubwing-ByeBurger-1.2.2_f9122152f56bdf8589ca0959c72f4864c9156ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_cbe73b80471d58e513b79292b7e1c95c04616e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_eb801e1960208ef2528211ad69d2937ecdb16a13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_da5d4cf221cf26d3013d63d91a90a701dd712f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_62c50b21fe7d7917f33d33c670f604800846b657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_0fec681e0315637e88652e8feba4aeb573477b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_f2ea7978af10c46e7eef2b3c5f20b127a3477671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_e5bc6af63901efa98e7c3bcbec0ddf3fc56e0b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.9/5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503/analytics-6.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/analytics-6.0.9_3ee22c3f3f9c6b107db4406775ce0bc933dc48c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce308f01623b0c38e68a9d5a3377bd4dbf7fc5e0">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/instant-run_11eb1ce0b1064cf9f43c423bb7ee892f11251829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_98553dc850fad34d6b9924509efed12ae2e8943d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_376906fe48e36fc1af0ff36199d0da96e4fafb39/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_205142b81cc797ff52d30988a25479c738d98fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_d7065cc9cdee525212750d84699d37de9fd50b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_80f0e4148f3d35906927294f0d22989864ffd41a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_57a8ef19156d8abbd1ec6d763c5f03bee792cd04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_4a771dc8572a5dc8da2333da5e8b3e735d0406bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/cn.bingoogolapple-bga-banner-2.1.6_d33c947518262e9d38c8edf691c28482d5e9994d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_099a8b67414f84e233359e70236f9744e2d69663.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/libs/bugly_1.2.3.8__release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab42e21d33d29850c095dd7f74746748a8f4a5f1">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_1.2.3.8__release_4c9a944daafa1e535ee935a7fe552d2af647fdee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_7b5aa3fa257d5f12e895371443e36fca00545f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/libs/bugly_1.2.3.8__release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab42e21d33d29850c095dd7f74746748a8f4a5f1">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/bugly_1.2.3.8__release_3853547bb9affae32614b91e9d37d618adc773e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.7/7224178d65af1443d8be61a2c20914bf3a6088fd/analytics-6.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7224178d65af1443d8be61a2c20914bf3a6088fd">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/analytics-6.0.7_5bdd0534a5f90c90be749fbdf8f087c17b6eef0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a98a8f5b52f07dae65a8d210fa75a4d2be2b072">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.githubwing-ByeBurger-1.2.2_f9122152f56bdf8589ca0959c72f4864c9156ce5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_18aac3a50c6b4a27668bd9c3edbfec650ee0085a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_f965d94d465b6887fd99cdf4e6d8255818bf27cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_cbe73b80471d58e513b79292b7e1c95c04616e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_e5bc6af63901efa98e7c3bcbec0ddf3fc56e0b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_eb801e1960208ef2528211ad69d2937ecdb16a13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f2ea7978af10c46e7eef2b3c5f20b127a3477671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_62c50b21fe7d7917f33d33c670f604800846b657/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_cd59d51366a57bde2f0e3e33d365e1bbbf2a1a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_6b9c731ccfb289e3d328e489b9669314312f8cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_e61de505369df2aa221ba718b0f89200eae86e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_0fec681e0315637e88652e8feba4aeb573477b01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_73233d0fb36e0dd75ba3e49ebd49a524eb42a7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.9/5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503/analytics-6.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/analytics-6.0.9_3ee22c3f3f9c6b107db4406775ce0bc933dc48c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6481518472cb73b9e099e8cd45c6cff593c5a8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_205142b81cc797ff52d30988a25479c738d98fba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b363f54aaa1b5161f37b32a1b57f71de2fcdfa13/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_be583a7c7f58cf95cdeca291d4d14ec4e4dbbb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_376906fe48e36fc1af0ff36199d0da96e4fafb39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_80f0e4148f3d35906927294f0d22989864ffd41a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/libs/bugly_1.2.3.8__release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab42e21d33d29850c095dd7f74746748a8f4a5f1">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/bugly_1.2.3.8__release_3853547bb9affae32614b91e9d37d618adc773e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_1ead4cbb01d77060037992de7add89842f8373e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_ac4dac169c8a852c8b5fcffefcebfc29ded90cc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_c3fe2e805f48908cf4455177a572201c7966f560/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_98553dc850fad34d6b9924509efed12ae2e8943d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_4780325fa0aed59956b67ccd1bc821420cf63307/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_9f96d30ed9f733682f8197ae686ac86534637cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_f965d94d465b6887fd99cdf4e6d8255818bf27cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_9b2a96c1325a9556e01e4527943f8c504f0854ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_cd59d51366a57bde2f0e3e33d365e1bbbf2a1a91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_571d2b957e8991004e825f819545067adee4f9e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_6b9c731ccfb289e3d328e489b9669314312f8cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/cn.bingoogolapple-bga-banner-2.1.6_7b229f30c410ed53e1d5fd225984fcc0ecef422f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_6d85de3bd7bba658fd78f968a9b7045aee553ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a98a8f5b52f07dae65a8d210fa75a4d2be2b072">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.github.githubwing-ByeBurger-1.2.2_0b16e59892ee284459f95701ebde6848913e76b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_be583a7c7f58cf95cdeca291d4d14ec4e4dbbb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_b363f54aaa1b5161f37b32a1b57f71de2fcdfa13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_4112dc77e83e85d38635fa339e5cdbb313544e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_620b46ebda6e646b1e48125324c93a9636b11e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/cn.bingoogolapple-bga-banner-2.1.6_7b229f30c410ed53e1d5fd225984fcc0ecef422f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_6481518472cb73b9e099e8cd45c6cff593c5a8c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e486a190071da3f1dbd22cf6610206d4b4368c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.0.1_9f96d30ed9f733682f8197ae686ac86534637cfc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_1ead4cbb01d77060037992de7add89842f8373e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_18aac3a50c6b4a27668bd9c3edbfec650ee0085a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.0.1_c3fe2e805f48908cf4455177a572201c7966f560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ac4dac169c8a852c8b5fcffefcebfc29ded90cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_4780325fa0aed59956b67ccd1bc821420cf63307.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="454f6b9b157e56a2ce1077ecbedb7709f9607bfa">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27d2a7e629cf1d3037fd8cb705a446b84028e12b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-design-25.0.1_9b2a96c1325a9556e01e4527943f8c504f0854ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.github.githubwing/ByeBurger/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a98a8f5b52f07dae65a8d210fa75a4d2be2b072">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.github.githubwing-ByeBurger-1.2.2_0b16e59892ee284459f95701ebde6848913e76b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_099a8b67414f84e233359e70236f9744e2d69663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_571d2b957e8991004e825f819545067adee4f9e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_da5d4cf221cf26d3013d63d91a90a701dd712f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_6d85de3bd7bba658fd78f968a9b7045aee553ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_21dad15e2ea32ae904a73ee63cef1d203888c805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.0.1_4112dc77e83e85d38635fa339e5cdbb313544e25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_620b46ebda6e646b1e48125324c93a9636b11e17/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_e61de505369df2aa221ba718b0f89200eae86e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d7065cc9cdee525212750d84699d37de9fd50b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_73233d0fb36e0dd75ba3e49ebd49a524eb42a7a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92daae9bd98e927531257ae44e96c60b8df69a02">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bingoogolapple-bga-banner-2.1.6_d33c947518262e9d38c8edf691c28482d5e9994d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.0.1_57a8ef19156d8abbd1ec6d763c5f03bee792cd04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_e486a190071da3f1dbd22cf6610206d4b4368c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/release/com.android.support-design-25.0.1_4a771dc8572a5dc8da2333da5e8b3e735d0406bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39a3f26fc6b5926c8f99f78771ed70ba8070705c">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_95846b0c365bdca0e95d55947b6df52b57974109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/bixia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/apple/Documents/App/bixia/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_7b5aa3fa257d5f12e895371443e36fca00545f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/butterknife-7.0.1_a643d2485fb7fc6fd615afb8e991d956d03509f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/sulingxin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b153cf190148feadc28eec077deb105b364dc2ce">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ea26e60c88e34e690132bde7d2470194e01fd12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.7/7224178d65af1443d8be61a2c20914bf3a6088fd/analytics-6.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7224178d65af1443d8be61a2c20914bf3a6088fd">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/analytics-6.0.7_5bdd0534a5f90c90be749fbdf8f087c17b6eef0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/sulingxin/app/libs/bugly_1.2.3.8__release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab42e21d33d29850c095dd7f74746748a8f4a5f1">
+        <dex dex="/Users/apple/Documents/App/sulingxin/app/build/intermediates/pre-dexed/release/bugly_1.2.3.8__release_4c9a944daafa1e535ee935a7fe552d2af647fdee.jar" />
+    </item>
+
+</items>

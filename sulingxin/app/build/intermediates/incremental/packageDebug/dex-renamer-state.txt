@@ -1,0 +1,7 @@
+#Tue Jan 17 16:25:27 CST 2017
+base.0=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27d2a7e629cf1d3037fd8cb705a446b84028e12b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ea26e60c88e34e690132bde7d2470194e01fd12/classes.dex
+base.1=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ea26e60c88e34e690132bde7d2470194e01fd12
+file.0=/Users/apple/Documents/App/sulingxin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27d2a7e629cf1d3037fd8cb705a446b84028e12b/classes.dex
