@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.apple.xianjinxia">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".activity.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="icon">
+        <activity
+            android:name=".activity.GuildActivity"
+            android:theme="@style/FirstTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".utils.AddDiaryActivity" />
+        <activity android:name=".activity.AddBillActivity" />
+        <activity android:name=".activity.AddCardActivity" />
+        <activity android:name=".activity.AddNoteActivity" />
+        <activity android:name=".activity.AllBillActivity" />
+        <activity android:name=".activity.AllCardActivity" />
+        <activity android:name=".activity.AllCardItemActivity" />
+        <activity android:name=".activity.AllCompanyItemActivity" />
+        <activity android:name=".activity.AllDiaryActivity" />
+        <activity android:name=".activity.AllNotesActivity" />
+        <activity android:name=".activity.AllPlaceItemActivity" />
+        <activity android:name=".activity.BaseSettingActivity" />
+        <activity android:name=".activity.CloudActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.OneDayAllActivity" />
+        <activity android:name=".activity.PassToActivity" />
+        <activity android:name=".activity.RegistActivity" />
+        <activity android:name=".activity.SettingActivity" />
+        <activity android:name=".activity.UserBaseInfoActivity" />
+        <activity
+            android:name=".activity.GuideActivity"
+            android:theme="@style/AppTheme.Splash" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="587b90a5ae1bf801df0008cd" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="xinhe" />
+
+        <activity
+            android:name=".activity.Main2Activity"
+            android:theme="@style/AppTheme1" />
+        <activity android:name=".lockpattern.GestureLoginActivity" />
+        <activity android:name=".lockpattern.CreateGestureActivity"></activity>
+    </application>
+
+</manifest>
