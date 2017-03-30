@@ -35,17 +35,13 @@ public class GuideActivity extends AppCompatActivity {
         mBackgroundBanner.setEnterSkipViewIdAndDelegate(R.id.btn_guide_enter, R.id.tv_guide_skip, new BGABanner.GuideDelegate() {
             @Override
             public void onClickEnterOrSkip() {
-                Intent intent=new Intent();
-                boolean url1 = SPUtils.contains(GuideActivity.this, "url");
-
-                if(url1){
-                    intent.setClass(GuideActivity.this,
-                            Main2Activity.class);
+                boolean url = SPUtils.contains(GuideActivity.this, "url");
+                if(!url){
+                    Main2Activity.launch(GuideActivity.this);
                 }else {
-                    intent.setClass(GuideActivity.this,
-                            MainActivity.class);
+                    Login2Activity.launch(GuideActivity.this);
+
                 }
-                startActivity(intent);
                 SharedPreferencesUtil.putBoolean(GuideActivity.this, SharedPreferencesUtil.FIRST_OPEN, false);
                 finish();
             }
@@ -53,7 +49,7 @@ public class GuideActivity extends AppCompatActivity {
     }
     private void processLogic() {
         // 设置数据源
-        mBackgroundBanner.setData(R.mipmap.lod_01, R.mipmap.lod_02,R.mipmap.lod_03);
+        mBackgroundBanner.setData(R.mipmap.ic_lod1, R.mipmap.ic_lod2,R.mipmap.ic_lod3);
 
     }
     public void onResume() {

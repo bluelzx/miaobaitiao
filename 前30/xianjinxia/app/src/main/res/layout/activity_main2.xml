@@ -5,24 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     >
-    <android.support.design.widget.BottomNavigationView
-        android:id="@+id/bye_burger"
+    <FrameLayout
+        android:id="@+id/app_item"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:background="@color/share_bg"
-        app:itemIconTint="#fff"
-        app:itemTextColor="#fff"
-        android:layout_alignParentBottom="true"
-        app:layout_behavior="@string/bye_burger_bottom_behavior"
-        app:menu="@menu/bottom_01"
-        >
-    </android.support.design.widget.BottomNavigationView>
-    <com.example.apple.xianjinxia.activity.NoScrollViewPager
-        android:id="@+id/viewpager"
-        android:layout_above="@id/bye_burger"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
-    </com.example.apple.xianjinxia.activity.NoScrollViewPager>
+        android:layout_height="match_parent"/>
 </RelativeLayout>

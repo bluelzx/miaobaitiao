@@ -3,29 +3,20 @@ package com.example.apple.xianjinxia.activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.view.ViewPager;
+import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
-import android.view.MenuItem;
 import android.widget.Toast;
 
 import com.example.apple.xianjinxia.R;
-import com.example.apple.xianjinxia.fragment.AboutFragment;
 import com.example.apple.xianjinxia.fragment.FristFragment;
 import com.example.apple.xianjinxia.utils.DoubleClickExit;
 import com.umeng.analytics.MobclickAgent;
 
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main2Activity extends AppCompatActivity {
-    private ViewPager mViewPager;
-    private List<Fragment> fragmentList;
-    private BottomNavigationView mNavigationView;
+    private FragmentManager mFragmentManager;
+
+    private Fragment mCurrentFragment;
     public static void launch(Context context) {
         context.startActivity(new Intent(context, Main2Activity.class));
     }
@@ -39,31 +30,10 @@ public class Main2Activity extends AppCompatActivity {
 
 
     private void initWeb() {
-        fragmentList = new ArrayList<>();
-        fragmentList.add(FristFragment.newInstance());
-        fragmentList.add(AboutFragment.newInstance("about"));
-        mViewPager = (ViewPager) findViewById(R.id.viewpager);
-        mNavigationView = (BottomNavigationView) findViewById(R.id.bye_burger);
-        mViewPager.setAdapter(new FragmentPagerAdapter(getSupportFragmentManager()) {
-            @Override public Fragment getItem(int position) {
-                return fragmentList.get(position);
-            }
+        mCurrentFragment=new FristFragment();
+        mFragmentManager=getSupportFragmentManager();
+        mFragmentManager.beginTransaction().add(R.id.app_item, mCurrentFragment).commit();
 
-            @Override public int getCount() {
-                return fragmentList.size();
-            }
-        });
-        mNavigationView.setOnNavigationItemSelectedListener(
-                new BottomNavigationView.OnNavigationItemSelectedListener() {
-                    @Override public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-                        if(item.getTitle().equals("home")){
-                            mViewPager.setCurrentItem(0);
-                        }else if(item.getTitle().equals("about")){
-                            mViewPager.setCurrentItem(1);
-                        }
-                        return false;
-                    }
-                });
     }
     public void onResume() {
         super.onResume();

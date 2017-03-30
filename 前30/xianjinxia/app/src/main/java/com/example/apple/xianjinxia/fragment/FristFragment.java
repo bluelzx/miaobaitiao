@@ -13,6 +13,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.example.apple.xianjinxia.R;
@@ -30,6 +31,8 @@ public class FristFragment extends Fragment {
 
     @Bind(R.id.mWebView)
     WebView mWebView;
+    @Bind(R.id.progressBar1)
+    ProgressBar progressBar1;
 
 
     public static FristFragment newInstance() {
@@ -74,10 +77,25 @@ public class FristFragment extends Fragment {
                 return true;
             }
         });
+        mWebView.setWebChromeClient(new WebChromeClient(){
+            @Override
+            public void onProgressChanged(WebView view, int newProgress) {
+                // TODO 自动生成的方法存根
+
+                if(newProgress==100){
+                    progressBar1.setVisibility(View.GONE);//加载完网页进度条消失
+                }
+                else{
+                    progressBar1.setVisibility(View.VISIBLE);//开始加载网页时显示进度条
+                    progressBar1.setProgress(newProgress);//设置进度值
+                }
+
+            }
+        });
         mWebView.setOnKeyListener(new View.OnKeyListener() {
             @Override
             public boolean onKey(View view, int i, KeyEvent keyEvent) {
-                if(keyEvent.getAction()==keyEvent.ACTION_DOWN){
+                if (keyEvent.getAction() == keyEvent.ACTION_DOWN) {
                     if (i == KeyEvent.KEYCODE_BACK && mWebView.canGoBack()) {
                         mWebView.goBack();
                         return true;
@@ -87,21 +105,23 @@ public class FristFragment extends Fragment {
             }
         });
     }
+
     private void TextNet() {
-        ConnectivityManager con=(ConnectivityManager)getActivity().getSystemService(Activity.CONNECTIVITY_SERVICE);
-        boolean wifi=con.getNetworkInfo(ConnectivityManager.TYPE_WIFI).isConnectedOrConnecting();
-        boolean internet=con.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).isConnectedOrConnecting();
-        if(wifi|internet){
+        ConnectivityManager con = (ConnectivityManager) getActivity().getSystemService(Activity.CONNECTIVITY_SERVICE);
+        boolean wifi = con.getNetworkInfo(ConnectivityManager.TYPE_WIFI).isConnectedOrConnecting();
+        boolean internet = con.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).isConnectedOrConnecting();
+        if (wifi | internet) {
             //执行相关操作
             mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
 
-        }else{
+        } else {
             mWebView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
             Toast.makeText(getActivity(),
                     "亲，网络连接失败咯！", Toast.LENGTH_LONG)
                     .show();
         }
     }
+
     @Override
     public void onDestroyView() {
         super.onDestroyView();

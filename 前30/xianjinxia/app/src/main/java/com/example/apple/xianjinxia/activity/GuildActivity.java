@@ -20,7 +20,7 @@ import java.lang.ref.WeakReference;
 public class GuildActivity extends AppCompatActivity {
     private SwitchHandler mHandler = new SwitchHandler(this);
 
-    private static  final String URL="http://www.shoujiweidai.com/android/app27.html";
+    private static  final String URL="http://www.shoujiweidai.com/android/app28.html";
     private static  boolean flag=false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,11 +28,13 @@ public class GuildActivity extends AppCompatActivity {
         boolean url1 = SPUtils.contains(this, "url");
         if(!url1){
             setUrl();
-           setWelcome();
-           // mHandler.sendEmptyMessageDelayed(1, 1000);
         }else {
-            flag=true;
-            mHandler.sendEmptyMessageDelayed(1, 1000);
+            boolean flag = SPUtils.contains(this, "flag");
+            if(flag){
+                mHandler.sendEmptyMessageDelayed(3, 1000);
+            }else {
+                mHandler.sendEmptyMessageDelayed(2, 1000);
+            }
         }
     }
     private void setUrl() {
@@ -41,11 +43,13 @@ public class GuildActivity extends AppCompatActivity {
             @Override
             public void onResponse(String response) {
                 SPUtils.put(GuildActivity.this,"url",URL);
-                flag=true;
+                setWelcome();
+
             }
         }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
+                mHandler.sendEmptyMessageDelayed(1, 1000);
 
             }
         });
@@ -63,12 +67,20 @@ public class GuildActivity extends AppCompatActivity {
         public void handleMessage(Message msg) {
             GuildActivity activity = mWeakReference.get();
             if (activity != null) {
-                if(flag){
-                    Main2Activity.launch(activity);
-                }else {
-                    MainActivity.launch(activity);
+                switch (msg.what){
+                    case 1:
+                        MainActivity.launch(activity);
+                        activity.finish();
+                        break;
+                    case 2:
+                        Login2Activity.launch(activity);
+                        activity.finish();
+                        break;
+                    case 3:
+                        Main2Activity.launch(activity);
+                        activity.finish();
+                        break;
                 }
-                activity.finish();
             }
         }
     }

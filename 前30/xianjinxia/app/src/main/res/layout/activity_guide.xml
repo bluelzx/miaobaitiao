@@ -15,7 +15,8 @@
             app:banner_pointContainerBackground="@android:color/transparent"
             app:banner_pointDrawable="@drawable/dot_selector"
             app:banner_pointTopBottomMargin="15dp"
-            app:banner_transitionEffect="alpha"/>
+            app:banner_indicatorGravity="bottom|right"
+            app:banner_transitionEffect="stack"/>
     </cn.bingoogolapple.bgabanner.BGAGuideLinkageLayout>
 
     <TextView

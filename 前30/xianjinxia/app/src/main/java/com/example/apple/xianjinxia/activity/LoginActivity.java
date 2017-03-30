@@ -68,14 +68,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         initView();
         loginFormBlur();
 
-//        QueryBuilder qb = userDao.queryBuilder();
-//        qb.where(UserDao.Properties.U_id.eq(0l), UserDao.Properties.U_id.eq(2l),UserDao.Properties.U_id.eq(3l),UserDao.Properties.U_id.eq(4l));
-//        qb.buildDelete().executeDeleteWithoutDetachingEntities();
-//        List<User> list = userDao.loadAll();
-//        for (int i=0;i<list.size();i++){
-//            User u = list.get(i);
-//            Log.i("---","清空后的数据库:"+u.getU_id()+" "+u.getU_age()+" "+u.getU_name()+" "+u.getU_password());
-//        }
+
     }
 
     private void initView(){

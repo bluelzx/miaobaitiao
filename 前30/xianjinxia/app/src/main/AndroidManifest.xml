@@ -57,12 +57,10 @@
         <meta-data
             android:name="UMENG_CHANNEL"
             android:value="xinhe" />
-
         <activity
             android:name=".activity.Main2Activity"
             android:theme="@style/AppTheme1" />
-        <activity android:name=".lockpattern.GestureLoginActivity" />
-        <activity android:name=".lockpattern.CreateGestureActivity"></activity>
+        <activity android:name=".activity.Login2Activity"></activity>
     </application>
 
 </manifest>
