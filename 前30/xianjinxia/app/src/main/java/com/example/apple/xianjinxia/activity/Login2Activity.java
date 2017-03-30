@@ -74,7 +74,7 @@ public class Login2Activity extends AppCompatActivity {
                 if (!etPhone.getText().toString().isEmpty() && !etCode.getText().toString().isEmpty() && etCode.getText().toString().equals(MessageCode)) {
                     setLogin();
                 } else {
-                    TastyToast.makeText(getApplicationContext(), "请输入正确的验证码 ", TastyToast.LENGTH_SHORT,
+                    TastyToast.makeText(getApplicationContext(), "验证码或手机号不正确 ", TastyToast.LENGTH_SHORT,
                             TastyToast.ERROR);                }
                 break;
         }

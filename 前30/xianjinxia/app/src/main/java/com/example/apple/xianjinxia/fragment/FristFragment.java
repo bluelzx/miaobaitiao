@@ -34,7 +34,6 @@ public class FristFragment extends Fragment {
     @Bind(R.id.progressBar1)
     ProgressBar progressBar1;
 
-
     public static FristFragment newInstance() {
         Bundle args = new Bundle();
         FristFragment fragment = new FristFragment();
@@ -113,7 +112,6 @@ public class FristFragment extends Fragment {
         if (wifi | internet) {
             //执行相关操作
             mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
-
         } else {
             mWebView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
             Toast.makeText(getActivity(),
