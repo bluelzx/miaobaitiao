@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable-mdpi/login_button_selected.9.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/drawable-mdpi/login_button_selected.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable-mdpi/reg_button_unselected.9.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/drawable-mdpi/reg_button_unselected.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable-mdpi/login_button_unselected.9.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/drawable-mdpi/login_button_unselected.9.png"
+    }
+]

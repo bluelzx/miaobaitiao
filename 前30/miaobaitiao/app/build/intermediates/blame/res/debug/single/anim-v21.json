@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

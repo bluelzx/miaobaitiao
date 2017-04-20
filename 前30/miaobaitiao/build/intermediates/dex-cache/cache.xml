@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/8923d04250945e8e0f9b5b9f19c58d85c397ac37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_1c43dc1f87b996417e28b39e7f1c547dc3558173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_4c4d5fb1df2809dfe32ecc41f8e6c3bb3d58219d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/fc50b3a9e7542eac8dd5a5362e76af796ea6b997/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_11ec8a535e1c71727bc981bc051d988942d745e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cd900fc2e7da440d9affe168bc364c7935c27f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f50ab710b44495f6819c16c82f78345e1a8bb98b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aba2e65614f13e3989094e7eef746b61f71ab366">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_aaf06f0471a97c7a9aff8a483138449ecc200dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/827e07f806ddb1684935f2ef53af11a2a45a629c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_715f1ecb7c7da0c59790d0909bc672cd43eef7bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7828a382a3c57000a0906f5964b3df8b2338d3eb">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_078b4fd1ef1aace392dc47d801b80502e8c988dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/b4f1ac91ea54c42c38d81fd19f53ad1c9046fb55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_c2ba1d90508bafbac38440ca35426af8766d995b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_a2b5e327095c0c91afd405d75a29fdf2d6b9edfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/58e47f7fb4769e87aeab04fff10371a11690f511/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_df430ad2d3a275389f73a7cc40f136e9f6704c88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/334383f8679b9eb970426e4e57874c1f1a83a1f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_36c5cb278343a3ec25e5d96ac068bfa1dd94701f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/4a3ab987dccce36e0d108a5333c1906f1858774c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5635fcc2e7b4abde0c5f8880f36058b17d7727e">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_574f3cb4598fa90d1cd01c17cb9d86a8823ad1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/glide-3.7.0_f231964c2701473cce363f629c4a38d8495d4408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/362fd3ff27ce82e36ea808ff2a86fe8038c21c39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_3a0aec85c326583ac565ba0bb09b7d0378f37322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_fe0aa882ed67d269c43943f236b9ffb98416ff73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Documents/App/前30/miaobaitiao/app/libs/KSOAP2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/KSOAP2_3bbd04f6d91d2b905457ebdaeb9cdbf49239e862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/764e6516b81db2c528a421706174bc2f8881009e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/pre-dexed/release/classes_bb7930fc618f4a601764d5df0742954358b9cc5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/App/前30/miaobaitiao/app/libs/KSOAP2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/transforms/dex/debug/folders/1000/2/KSOAP2_3bbd04f6d91d2b905457ebdaeb9cdbf49239e862/classes.dex" />
+    </item>
+
+</items>

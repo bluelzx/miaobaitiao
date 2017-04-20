@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E0E0E0"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.miaobaitiao.activity.HomeActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <cn.bingoogolapple.bgabanner.BGABanner
+            android:id="@+id/banner_fresco_demo_content"
+            style="@style/BannerDefaultStyle"
+            app:banner_isNeedShowIndicatorOnOnlyOnePage="true"
+            app:banner_pointDrawable="@drawable/bga_banner_selector_point_hollow"
+            app:banner_pointAutoPlayAble="true"
+            app:banner_pointContainerBackground="@android:color/transparent"
+            app:banner_transitionEffect="defaultEffect"/>
+        <android.support.v7.widget.RecyclerView
+            android:layout_below="@id/banner_fresco_demo_content"
+            android:id="@+id/recylerview"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

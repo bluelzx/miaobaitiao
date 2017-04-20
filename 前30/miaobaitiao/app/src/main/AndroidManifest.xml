@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.miaobaitiao">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.example.miaobaitiao.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        tools:replace="android:icon"
+        android:theme="@style/BaseAppTheme">
+        <activity
+            android:name="com.example.miaobaitiao.activity.WelcomActivity"
+            android:theme="@style/FirstTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.miaobaitiao.activity.LoginActivity"
+            android:label="理财通" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.SetPasswordActivity"
+            android:label="设置密码" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.MainActivity"
+            android:label="主页" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.AddOutAccountActivity"
+            android:label="新增支出" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.OutAccountInfoActivity"
+            android:label="我的支出" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.AddInAccountActivity"
+            android:label="新增收入" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.InAccountInfoActivity"
+            android:label="我的收入" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.SystemSetActivity"
+            android:label="系统设置" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.AccountFlagActivity"
+            android:label="便签管理" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.ShowAccountInfoActivity"
+            android:label="数据管理" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="586e008f677baa6a26000584" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="xinhe" />
+
+        <activity
+            android:name="com.example.miaobaitiao.activity.Main2Activity"
+            android:theme="@style/BaseAppTheme" />
+        <activity
+            android:name="com.example.miaobaitiao.activity.GuideActivity"
+            android:theme="@style/AppTheme.Splash" />
+        <activity android:name="com.example.miaobaitiao.activity.HomeActivity" />
+        <activity android:name="com.example.miaobaitiao.activity.HtmlActivity" />
+
+        <meta-data
+            android:name="com.example.miaobaitiao.adapter.MyGlideModule"
+            android:value="GlideModule" />
+
+        <activity android:name="com.example.miaobaitiao.activity.ProductActivity" />
+        <activity android:name="com.example.miaobaitiao.activity.Login2Activity"></activity>
+    </application>
+
+</manifest>

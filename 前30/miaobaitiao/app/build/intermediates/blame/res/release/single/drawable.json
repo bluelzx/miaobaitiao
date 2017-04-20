@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/error_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/error_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/info_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/info_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/success_circle.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/success_circle.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/warning_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/warning_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/default_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/default_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/blue_button_background.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/blue_button_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/error_circle.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/error_circle.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/bga_banner_selector_point_hollow.xml",
+        "source": "/Users/apple/.android/build-cache/cbca8b7b2f9dbffac8121b159bec15dc2c3586cc/output/res/drawable/bga_banner_selector_point_hollow.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/bga_banner_selector_point_solid.xml",
+        "source": "/Users/apple/.android/build-cache/cbca8b7b2f9dbffac8121b159bec15dc2c3586cc/output/res/drawable/bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/background_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/background_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/success_bow.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/success_bow.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/red_button_background.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/red_button_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/sample_footer_loading.png",
+        "source": "/Users/apple/.android/build-cache/4a3ab987dccce36e0d108a5333c1906f1858774c/output/res/drawable/sample_footer_loading.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/error_center_x.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/error_center_x.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/warning_circle.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/warning_circle.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/success_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/success_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/warning_sigh.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/warning_sigh.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/Users/apple/.android/build-cache/4d81c1a7eb592ac12e0103eb63407ba432d512dd/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/sample_footer_loading_progress.xml",
+        "source": "/Users/apple/.android/build-cache/4a3ab987dccce36e0d108a5333c1906f1858774c/output/res/drawable/sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/dialog_background.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/confusing_toast.xml",
+        "source": "/Users/apple/.android/build-cache/904b46f27b60fd886e145d3a2122ee2568fc2752/output/res/drawable/confusing_toast.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/gray_button_background.xml",
+        "source": "/Users/apple/.android/build-cache/c368201f427005591cf59e6e695d4a66874b0213/output/res/drawable/gray_button_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/apple/.android/build-cache/bc19d54807e0d6d1811a0099ef0eb6535e742e13/output/res/drawable/abc_ic_clear_material.xml"
+    }
+]

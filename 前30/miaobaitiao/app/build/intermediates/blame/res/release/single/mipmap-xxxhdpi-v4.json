@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_phone.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/mipmap-xxxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_card.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/mipmap-xxxhdpi/ic_card.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_code.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/mipmap-xxxhdpi/ic_code.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/ic_back.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/mipmap-xxxhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/App/前30/miaobaitiao/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v4/message.png",
+        "source": "/Users/apple/Documents/App/前30/miaobaitiao/app/src/main/res/mipmap-xxxhdpi/message.png"
+    }
+]
